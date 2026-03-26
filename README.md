@@ -71,3 +71,6 @@ Contoh:
 * Filtering task berdasarkan status
 * Deadline task
 * Integrasi frontend (web UI)
+
+## Screenshot Testnet
+![alt text](screenshot_stellar-1.png)
